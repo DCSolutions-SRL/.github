@@ -1,5 +1,3 @@
-# Herramientas de Integración DCSolutions
-
 <p align="center">
   <a href="http://www.dcs.ar"><img src="https://i.imgur.com/GgjNXNl.png" alt="DCSolutions" width="200"></a>
 </p>
